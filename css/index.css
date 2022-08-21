@@ -1,0 +1,41 @@
+body {
+    background-color: #efefef;
+}
+.div-isq {
+    background-color: #75ABBC;
+    display: inline-block;
+}
+.div-der{
+    background-color: #E3E1E1;
+    width: 600px;
+    
+}
+h2{
+    margin: 0;
+    text-align: center;
+}
+
+.container{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+}
+
+.div2-der{
+    margin-left: 20px;
+}
+
+.div-isq .foto{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: 68px;
+    margin-top: 6px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+img{
+    border-radius: 50%;
+}
